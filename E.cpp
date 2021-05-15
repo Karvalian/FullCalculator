@@ -26,4 +26,8 @@ int main(){
 		long long b;
 		cout << (a ^ b) << endl;
 	}
+	cout << "Press any key to exit." << endl;
+	int kk;
+	cin >> kk;
+}
 }
